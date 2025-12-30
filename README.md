@@ -8,16 +8,39 @@ Hi, I'm Harsh Verma — a developer experienced in Android app development using
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) [![Google Play Store](https://img.shields.io/badge/Google_Play_Store-Open-green?logo=googleplay&logoColor=white)](https://play.google.com/store)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma1512&show_icons=true&theme=radical&layout=compact)
-
-
+### 🏆 GitHub Achievements / Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshverma1512&theme=onedark&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshverma1512&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harshverma1512&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma1512&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🐍 Activity Contribution Snake
+![snake gif](https://github.com/harshverma1512/harshverma1512/blob/output/github-contribution-grid-snake.svg)
+
+### 🔥 Featured Projects
+
+[![AI Powered Health App](https://github-readme-stats.vercel.app/api/pin/?username=harshverma1512&repo=AI-Powered-Health-App&theme=tokyonight)](https://github.com/harshverma1512/AI-Powered-Health-App)
+
+
+
+### 🏅 Profile Highlights
+![Profile Views](https://komarev.com/ghpvc/?username=harshverma1512&style=flat&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/harshverma1512?style=social)
+![Stars](https://img.shields.io/github/stars/harshverma1512?style=social)
+
+### 📈 Analytics Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshverma1512&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma1512&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshverma1512&theme=tokyonight&hide_border=false" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshverma1512&theme=tokyonight&utcOffset=8" height="160"/>
+</p>
+
 
 
 ---
