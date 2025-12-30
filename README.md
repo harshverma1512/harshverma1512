@@ -10,7 +10,7 @@ Hi, I'm Harsh Verma — a developer experienced in Android app development using
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma1512)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma1512&show_icons=true&theme=radical&layout=compact)
 
 
 
