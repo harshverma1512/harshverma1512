@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 Hi, I'm Harsh Verma — a developer experienced in Android app development using Kotlin and Jetpack Compose, and also skilled in Java backend development. I work with modern Android architectures like MVVM, Hilt for dependency injection, Coroutines, StateFlow, and have built apps involving Firebase Authentication, Paging 3, AI integration through Gemini API, and location-based features. I also have hands-on experience with Java Spring Boot, JWT Authentication, MongoDB, and implementing secure APIs with password encryption. Along with Android, I have worked on UI development in Flutter, and I actively explore Data Structures & Algorithms using Java to improve problem-solving skills.
 
