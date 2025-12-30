@@ -16,7 +16,7 @@ Hi, I'm Harsh Verma — a developer experienced in Android app development using
 
 ## 🔥 Featured Projects
 
-[<img src="https://raw.githubusercontent.com/harshverma1512/AI-Powered-Health-App/main/assets/logo.png" width="50"/>](https://github.com/harshverma1512/AI-Powered-Health-App)
+[<img src="https://raw.githubusercontent.com/harshverma1512/AI-Powered-Health-App/main/app/src/main/res/drawable/water_bottle.webp" width="50"/>](https://github.com/harshverma1512/AI-Powered-Health-App)
 **[AI Powered Health App](https://github.com/harshverma1512/AI-Powered-Health-App)**
 
 
