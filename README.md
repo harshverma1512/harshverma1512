@@ -3,7 +3,7 @@ Hi, I'm Harsh Verma — a developer experienced in Android app development using
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HarshRajput1512) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshverma1512) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Harsh1512Verma@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/harsh1512verma/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HarshRajput1512) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshverma1512) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Harsh1512Verma@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/harsh1512verma/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@knowubetter)
  
 
 # 💻 Tech Stack:
